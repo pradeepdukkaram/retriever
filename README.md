@@ -20,4 +20,4 @@ Secure secret sharing through the browser using web crypto. No server required!
 ## How it works
 ![How retriever works](/img/encryption_flow.png)
 
-<i>Forked and modified from [Corgea](https://github.com/Corgea/retriever/)</i>
+[<i>Forked and modified from [Corgea](https://github.com/Corgea/retriever/)</i>]
