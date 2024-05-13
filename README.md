@@ -5,10 +5,10 @@
 # Retriever
 Secure secret sharing through the browser using web crypto. No server required!
 
-[Try it here](https://improximus.github.io/retriever)
+[Try it here](https://pradeepdukkaram.github.io/retriever)
 
 
-[Why did we build this?](https://improximus.github.io/retriever/why.html)
+[Why did we build this?](https://pradeepdukkaram.github.io/retriever/why.html)
 
 ## Features
 * 100% client-side
